@@ -80,4 +80,4 @@ theme: landscape
 deploy:
   type: git
   repo: https://github.com/MCourser/MCourser.github.io.git
-  branch: gh-pages
+  branch: master
